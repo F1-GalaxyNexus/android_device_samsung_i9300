@@ -26,5 +26,5 @@
         <activity android:name=".mDNIeFragmentActivity" />
         <activity android:name=".RadioFragmentActivity" />
         
-    </appliscation>
+    </application>
 </manifest>
